@@ -85,7 +85,7 @@ Projeto com visual moderno inspirado em startups e agências digitais.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome**
+Desenvolvido por **Barbara Demo Martinello**
 
 ---
 
